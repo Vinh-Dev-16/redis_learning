@@ -1,5 +1,7 @@
 # Redis Deep Dive Learning Lab
 
+Website công khai: [Redis Deep Dive Learning Site](https://vinh-dev-16.github.io/redis_learning/).
+
 Website học Redis chạy hoàn toàn trên máy cá nhân. Ứng dụng chỉ cần Docker Desktop để mở; Docker phục vụ website tĩnh và **không chạy Redis**.
 
 ## Dành cho người học
