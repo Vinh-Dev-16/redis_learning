@@ -32,3 +32,16 @@
   .reading-intro p{font-size:13px}.reading-block p,.reading-example p,.reading-check p{font-size:11px}.reading-example li{font-size:11px}
   .note-section p{font-size:11px}.note-section li,.note-callout p{font-size:10px}.statusbar{font-size:8px}
 }
+/* Larger study text for comfortable reading. */
+.lesson-heading p,.mode-page>p{font-size:16px;line-height:1.7}
+.chapter-title-wrap b{font-size:14px}.chapter-title-wrap small{font-size:11px}.lesson-item{font-size:13px;line-height:1.55}
+.event-description{font-size:14px}.lesson-takeaway{font-size:14px}
+.notes-context b{font-size:13px}.notes-context small{font-size:12px}.note-section p{font-size:15px}.note-section li{font-size:13px}.note-callout b{font-size:13px}.note-callout p{font-size:14px}.notes-footer>span,.notes-footer button{font-size:11px}
+.reading-intro p{font-size:16px}.reading-block h2{font-size:18px}.reading-block p,.reading-example p,.reading-check p{font-size:16px;line-height:1.7}.reading-example li{font-size:13px}.reading-check summary{font-size:14px}.reading-source{font-size:12px}
+.statusbar{font-size:10px}
+@media(max-width:700px){
+  .lesson-heading p,.mode-page>p{font-size:14px}
+  .lesson-item{font-size:12px}.event-description{font-size:13px}.lesson-takeaway{font-size:13px}
+  .reading-intro p{font-size:15px}.reading-block p,.reading-example p,.reading-check p{font-size:14px}.reading-example li{font-size:12.5px}.reading-check summary{font-size:13px}.reading-source{font-size:11px}
+  .note-section p{font-size:14px}.note-section li,.note-callout p{font-size:12.5px}.statusbar{font-size:9px}
+}
